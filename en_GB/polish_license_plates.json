@@ -1,0 +1,2444 @@
+[
+  {
+    "prefix": "DJ",
+    "voivodeship": "dolnoslaskie",
+    "county": "Jelenia Gora",
+    "city": "Jelenia Gora"
+  },
+  {
+    "prefix": "DL",
+    "voivodeship": "dolnoslaskie",
+    "county": "Legnica",
+    "city": "Legnica"
+  },
+  {
+    "prefix": "DB",
+    "voivodeship": "dolnoslaskie",
+    "county": "Walbrzych",
+    "city": "Walbrzych"
+  },
+  {
+    "prefix": "DW",
+    "voivodeship": "dolnoslaskie",
+    "county": "Wroclaw",
+    "city": "Wroclaw"
+  },
+  {
+    "prefix": "DBL",
+    "voivodeship": "dolnoslaskie",
+    "county": "boleslawiecki",
+    "city": "Boleslawiec"
+  },
+  {
+    "prefix": "DDZ",
+    "voivodeship": "dolnoslaskie",
+    "county": "dzierzoniowski",
+    "city": "Dzierzoniow"
+  },
+  {
+    "prefix": "DGL",
+    "voivodeship": "dolnoslaskie",
+    "county": "glogowski",
+    "city": "Glogow"
+  },
+  {
+    "prefix": "DGR",
+    "voivodeship": "dolnoslaskie",
+    "county": "gorowski",
+    "city": "Gora"
+  },
+  {
+    "prefix": "DJA",
+    "voivodeship": "dolnoslaskie",
+    "county": "jaworski",
+    "city": "Jawor"
+  },
+  {
+    "prefix": "DJE",
+    "voivodeship": "dolnoslaskie",
+    "county": "jeleniogorski",
+    "city": "Jelenia Gora"
+  },
+  {
+    "prefix": "DKA",
+    "voivodeship": "dolnoslaskie",
+    "county": "kamiennogorski",
+    "city": "Kamienna Gora"
+  },
+  {
+    "prefix": "DKL",
+    "voivodeship": "dolnoslaskie",
+    "county": "klodzki",
+    "city": "Klodzko"
+  },
+  {
+    "prefix": "DLE",
+    "voivodeship": "dolnoslaskie",
+    "county": "legnicki",
+    "city": "Legnica"
+  },
+  {
+    "prefix": "DLB",
+    "voivodeship": "dolnoslaskie",
+    "county": "lubanski",
+    "city": "Luban"
+  },
+  {
+    "prefix": "DLU",
+    "voivodeship": "dolnoslaskie",
+    "county": "lubinski",
+    "city": "Lubin"
+  },
+  {
+    "prefix": "DLW",
+    "voivodeship": "dolnoslaskie",
+    "county": "lwowecki",
+    "city": "Lwowek Slaski"
+  },
+  {
+    "prefix": "DMI",
+    "voivodeship": "dolnoslaskie",
+    "county": "milicki",
+    "city": "Milicz"
+  },
+  {
+    "prefix": "DOL",
+    "voivodeship": "dolnoslaskie",
+    "county": "olesnicki",
+    "city": "Olesnica"
+  },
+  {
+    "prefix": "DOA",
+    "voivodeship": "dolnoslaskie",
+    "county": "olawski",
+    "city": "Olawa"
+  },
+  {
+    "prefix": "DPL",
+    "voivodeship": "dolnoslaskie",
+    "county": "polkowicki",
+    "city": "Polkowice"
+  },
+  {
+    "prefix": "DST",
+    "voivodeship": "dolnoslaskie",
+    "county": "strzelinski",
+    "city": "Strzelin"
+  },
+  {
+    "prefix": "DSR",
+    "voivodeship": "dolnoslaskie",
+    "county": "sredzki",
+    "city": "Sroda Slaska"
+  },
+  {
+    "prefix": "DSW",
+    "voivodeship": "dolnoslaskie",
+    "county": "swidnicki",
+    "city": "Swidnica"
+  },
+  {
+    "prefix": "DTR",
+    "voivodeship": "dolnoslaskie",
+    "county": "trzebnicki",
+    "city": "Trzebnica"
+  },
+  {
+    "prefix": "DBA",
+    "voivodeship": "dolnoslaskie",
+    "county": "walbrzyski",
+    "city": "Walbrzych"
+  },
+  {
+    "prefix": "DWL",
+    "voivodeship": "dolnoslaskie",
+    "county": "wolowski",
+    "city": "Wolow"
+  },
+  {
+    "prefix": "DWR",
+    "voivodeship": "dolnoslaskie",
+    "county": "wroclawski",
+    "city": "Wroclaw"
+  },
+  {
+    "prefix": "DZA",
+    "voivodeship": "dolnoslaskie",
+    "county": "zabkowicki",
+    "city": "Zabkowice Slaskie"
+  },
+  {
+    "prefix": "DZG",
+    "voivodeship": "dolnoslaskie",
+    "county": "zgorzelecki",
+    "city": "Zgorzelec"
+  },
+  {
+    "prefix": "DZL",
+    "voivodeship": "dolnoslaskie",
+    "county": "zlotoryjski",
+    "city": "Zlotoryja"
+  },
+  {
+    "prefix": "CB",
+    "voivodeship": "kujawsko-pomorskie",
+    "county": "Bydgoszcz",
+    "city": "Bydgoszcz"
+  },
+  {
+    "prefix": "CG",
+    "voivodeship": "kujawsko-pomorskie",
+    "county": "Grudziadz",
+    "city": "Grudziadz"
+  },
+  {
+    "prefix": "CT",
+    "voivodeship": "kujawsko-pomorskie",
+    "county": "Torun",
+    "city": "Torun"
+  },
+  {
+    "prefix": "CW",
+    "voivodeship": "kujawsko-pomorskie",
+    "county": "Wloclawek",
+    "city": "Wloclawek"
+  },
+  {
+    "prefix": "CAL",
+    "voivodeship": "kujawsko-pomorskie",
+    "county": "aleksandrowski",
+    "city": "Aleksandrow Kujawski"
+  },
+  {
+    "prefix": "CBR",
+    "voivodeship": "kujawsko-pomorskie",
+    "county": "brodnicki",
+    "city": "Brodnica"
+  },
+  {
+    "prefix": "CBY",
+    "voivodeship": "kujawsko-pomorskie",
+    "county": "bydgoski",
+    "city": "Bydgoszcz"
+  },
+  {
+    "prefix": "CCH",
+    "voivodeship": "kujawsko-pomorskie",
+    "county": "chelminski",
+    "city": "Chelmno"
+  },
+  {
+    "prefix": "CGD",
+    "voivodeship": "kujawsko-pomorskie",
+    "county": "golubsko-dobrzynski",
+    "city": "Golub-Dobrzyn"
+  },
+  {
+    "prefix": "CGR",
+    "voivodeship": "kujawsko-pomorskie",
+    "county": "grudziadzki",
+    "city": "Grudziadz"
+  },
+  {
+    "prefix": "CIN",
+    "voivodeship": "kujawsko-pomorskie",
+    "county": "inowroclawski",
+    "city": "Inowroclaw"
+  },
+  {
+    "prefix": "CLI",
+    "voivodeship": "kujawsko-pomorskie",
+    "county": "lipnowski",
+    "city": "Lipno"
+  },
+  {
+    "prefix": "CMG",
+    "voivodeship": "kujawsko-pomorskie",
+    "county": "mogilenski",
+    "city": "Mogilno"
+  },
+  {
+    "prefix": "CNA",
+    "voivodeship": "kujawsko-pomorskie",
+    "county": "nakielski",
+    "city": "Naklo nad Notecia"
+  },
+  {
+    "prefix": "CRA",
+    "voivodeship": "kujawsko-pomorskie",
+    "county": "radziejowski",
+    "city": "Radziejow"
+  },
+  {
+    "prefix": "CRY",
+    "voivodeship": "kujawsko-pomorskie",
+    "county": "rypinski",
+    "city": "Rypin"
+  },
+  {
+    "prefix": "CSE",
+    "voivodeship": "kujawsko-pomorskie",
+    "county": "sepolenski",
+    "city": "Sepolno Krajenskie"
+  },
+  {
+    "prefix": "CSW",
+    "voivodeship": "kujawsko-pomorskie",
+    "county": "swiecki",
+    "city": "Swiecie"
+  },
+  {
+    "prefix": "CTR",
+    "voivodeship": "kujawsko-pomorskie",
+    "county": "torunski",
+    "city": "Torun"
+  },
+  {
+    "prefix": "CTU",
+    "voivodeship": "kujawsko-pomorskie",
+    "county": "tucholski",
+    "city": "Tuchola"
+  },
+  {
+    "prefix": "CWA",
+    "voivodeship": "kujawsko-pomorskie",
+    "county": "wabrzeski",
+    "city": "Wabrzezno"
+  },
+  {
+    "prefix": "CWL",
+    "voivodeship": "kujawsko-pomorskie",
+    "county": "wloclawski",
+    "city": "Wloclawek"
+  },
+  {
+    "prefix": "CZN",
+    "voivodeship": "kujawsko-pomorskie",
+    "county": "zninski",
+    "city": "Znin"
+  },
+  {
+    "prefix": "LB",
+    "voivodeship": "lubelskie",
+    "county": "Biala Podlaska",
+    "city": "Biala Podlaska"
+  },
+  {
+    "prefix": "LC",
+    "voivodeship": "lubelskie",
+    "county": "Chelm",
+    "city": "Chelm"
+  },
+  {
+    "prefix": "LU",
+    "voivodeship": "lubelskie",
+    "county": "Lublin",
+    "city": "Lublin"
+  },
+  {
+    "prefix": "LZ",
+    "voivodeship": "lubelskie",
+    "county": "Zamosc",
+    "city": "Zamosc"
+  },
+  {
+    "prefix": "LBI",
+    "voivodeship": "lubelskie",
+    "county": "bialski",
+    "city": "Biala Podlaska"
+  },
+  {
+    "prefix": "LBL",
+    "voivodeship": "lubelskie",
+    "county": "bilgorajski",
+    "city": "Bilgoraj"
+  },
+  {
+    "prefix": "LCH",
+    "voivodeship": "lubelskie",
+    "county": "chelmski",
+    "city": "Chelm"
+  },
+  {
+    "prefix": "LHR",
+    "voivodeship": "lubelskie",
+    "county": "hrubieszowski",
+    "city": "Hrubieszow"
+  },
+  {
+    "prefix": "LJA",
+    "voivodeship": "lubelskie",
+    "county": "janowski",
+    "city": "Janow Lubelski"
+  },
+  {
+    "prefix": "LKS",
+    "voivodeship": "lubelskie",
+    "county": "krasnostawski",
+    "city": "Krasnystaw"
+  },
+  {
+    "prefix": "LKR",
+    "voivodeship": "lubelskie",
+    "county": "krasnicki",
+    "city": "Krasnik"
+  },
+  {
+    "prefix": "LLB",
+    "voivodeship": "lubelskie",
+    "county": "lubartowski",
+    "city": "Lubartow"
+  },
+  {
+    "prefix": "LUB",
+    "voivodeship": "lubelskie",
+    "county": "lubelski",
+    "city": "Lublin"
+  },
+  {
+    "prefix": "LLE",
+    "voivodeship": "lubelskie",
+    "county": "leczynski",
+    "city": "Leczna"
+  },
+  {
+    "prefix": "LLU",
+    "voivodeship": "lubelskie",
+    "county": "lukowski",
+    "city": "Lukow"
+  },
+  {
+    "prefix": "LOP",
+    "voivodeship": "lubelskie",
+    "county": "opolski",
+    "city": "Opole Lubelskie"
+  },
+  {
+    "prefix": "LPA",
+    "voivodeship": "lubelskie",
+    "county": "parczewski",
+    "city": "Parczew"
+  },
+  {
+    "prefix": "LPU",
+    "voivodeship": "lubelskie",
+    "county": "pulawski",
+    "city": "Pulawy"
+  },
+  {
+    "prefix": "LRA",
+    "voivodeship": "lubelskie",
+    "county": "radzynski",
+    "city": "Radzyn Podlaski"
+  },
+  {
+    "prefix": "LRY",
+    "voivodeship": "lubelskie",
+    "county": "rycki",
+    "city": "Ryki"
+  },
+  {
+    "prefix": "LSW",
+    "voivodeship": "lubelskie",
+    "county": "swidnicki",
+    "city": "Swidnik"
+  },
+  {
+    "prefix": "LTM",
+    "voivodeship": "lubelskie",
+    "county": "tomaszowski",
+    "city": "Tomaszow Lubelski"
+  },
+  {
+    "prefix": "LWL",
+    "voivodeship": "lubelskie",
+    "county": "wlodawski",
+    "city": "Wlodawa"
+  },
+  {
+    "prefix": "LZA",
+    "voivodeship": "lubelskie",
+    "county": "zamojski",
+    "city": "Zamosc"
+  },
+  {
+    "prefix": "FG",
+    "voivodeship": "lubuskie",
+    "county": "Gorzow Wielkopolski",
+    "city": "Gorzow Wielkopolski"
+  },
+  {
+    "prefix": "FZ",
+    "voivodeship": "lubuskie",
+    "county": "Zielona Gora",
+    "city": "Zielona Gora"
+  },
+  {
+    "prefix": "FGW",
+    "voivodeship": "lubuskie",
+    "county": "gorzowski",
+    "city": "Gorzow Wielkopolski"
+  },
+  {
+    "prefix": "FKR",
+    "voivodeship": "lubuskie",
+    "county": "krosnienski",
+    "city": "Krosno Odrzanskie"
+  },
+  {
+    "prefix": "FMI",
+    "voivodeship": "lubuskie",
+    "county": "miedzyrzecki",
+    "city": "Miedzyrzecz"
+  },
+  {
+    "prefix": "FNW",
+    "voivodeship": "lubuskie",
+    "county": "nowosolski",
+    "city": "Nowa Sol"
+  },
+  {
+    "prefix": "FSL",
+    "voivodeship": "lubuskie",
+    "county": "slubicki",
+    "city": "Slubice"
+  },
+  {
+    "prefix": "FSD",
+    "voivodeship": "lubuskie",
+    "county": "strzelecko-drezdenecki",
+    "city": "Strzelce Krajenskie"
+  },
+  {
+    "prefix": "FSU",
+    "voivodeship": "lubuskie",
+    "county": "sulecinski",
+    "city": "Sulecin"
+  },
+  {
+    "prefix": "FSW",
+    "voivodeship": "lubuskie",
+    "county": "swiebodzinski",
+    "city": "Swiebodzin"
+  },
+  {
+    "prefix": "FWS",
+    "voivodeship": "lubuskie",
+    "county": "wschowski",
+    "city": "Wschowa"
+  },
+  {
+    "prefix": "FZI",
+    "voivodeship": "lubuskie",
+    "county": "zielonogorski",
+    "city": "Zielona Gora"
+  },
+  {
+    "prefix": "FZG",
+    "voivodeship": "lubuskie",
+    "county": "zaganski",
+    "city": "Zagan"
+  },
+  {
+    "prefix": "FZA",
+    "voivodeship": "lubuskie",
+    "county": "zarski",
+    "city": "Zary"
+  },
+  {
+    "prefix": "EL",
+    "voivodeship": "lodzkie",
+    "county": "Lodz",
+    "city": "Lodz"
+  },
+  {
+    "prefix": "ED",
+    "voivodeship": "lodzkie",
+    "county": "Lodz",
+    "city": "Lodz"
+  },
+  {
+    "prefix": "EP",
+    "voivodeship": "lodzkie",
+    "county": "Piotrkow Trybunalski",
+    "city": "Piotrkow Trybunalski"
+  },
+  {
+    "prefix": "ES",
+    "voivodeship": "lodzkie",
+    "county": "Skierniewice",
+    "city": "Skierniewice"
+  },
+  {
+    "prefix": "EBE",
+    "voivodeship": "lodzkie",
+    "county": "belchatowski",
+    "city": "Belchatow"
+  },
+  {
+    "prefix": "EBR",
+    "voivodeship": "lodzkie",
+    "county": "brzezinski",
+    "city": "Brzeziny"
+  },
+  {
+    "prefix": "EKU",
+    "voivodeship": "lodzkie",
+    "county": "kutnowski",
+    "city": "Kutno"
+  },
+  {
+    "prefix": "ELA",
+    "voivodeship": "lodzkie",
+    "county": "laski",
+    "city": "Lask"
+  },
+  {
+    "prefix": "ELE",
+    "voivodeship": "lodzkie",
+    "county": "leczycki",
+    "city": "Leczyca"
+  },
+  {
+    "prefix": "ELC",
+    "voivodeship": "lodzkie",
+    "county": "lowicki",
+    "city": "Lowicz"
+  },
+  {
+    "prefix": "ELW",
+    "voivodeship": "lodzkie",
+    "county": "lodzki",
+    "city": "wschodni Lodz"
+  },
+  {
+    "prefix": "EOP",
+    "voivodeship": "lodzkie",
+    "county": "opoczynski",
+    "city": "Opoczno"
+  },
+  {
+    "prefix": "EPA",
+    "voivodeship": "lodzkie",
+    "county": "pabianicki",
+    "city": "Pabianice"
+  },
+  {
+    "prefix": "EPJ",
+    "voivodeship": "lodzkie",
+    "county": "pajeczanski",
+    "city": "Pajeczno"
+  },
+  {
+    "prefix": "EPI",
+    "voivodeship": "lodzkie",
+    "county": "piotrkowski",
+    "city": "Piotrkow Trybunalski"
+  },
+  {
+    "prefix": "EPD",
+    "voivodeship": "lodzkie",
+    "county": "poddebicki",
+    "city": "Poddebice"
+  },
+  {
+    "prefix": "ERA",
+    "voivodeship": "lodzkie",
+    "county": "radomszczanski",
+    "city": "Radomsko"
+  },
+  {
+    "prefix": "ERW",
+    "voivodeship": "lodzkie",
+    "county": "rawski",
+    "city": "Rawa Mazowiecka"
+  },
+  {
+    "prefix": "ESI",
+    "voivodeship": "lodzkie",
+    "county": "sieradzki",
+    "city": "Sieradz"
+  },
+  {
+    "prefix": "ESK",
+    "voivodeship": "lodzkie",
+    "county": "skierniewicki",
+    "city": "Skierniewice"
+  },
+  {
+    "prefix": "ETM",
+    "voivodeship": "lodzkie",
+    "county": "tomaszowski",
+    "city": "Tomaszow Mazowiecki"
+  },
+  {
+    "prefix": "EWI",
+    "voivodeship": "lodzkie",
+    "county": "wielunski",
+    "city": "Wielun"
+  },
+  {
+    "prefix": "EWE",
+    "voivodeship": "lodzkie",
+    "county": "wieruszowski",
+    "city": "Wieruszow"
+  },
+  {
+    "prefix": "EZD",
+    "voivodeship": "lodzkie",
+    "county": "zdunskowolski",
+    "city": "Zdunska Wola"
+  },
+  {
+    "prefix": "EZG",
+    "voivodeship": "lodzkie",
+    "county": "zgierski",
+    "city": "Zgierz"
+  },
+  {
+    "prefix": "KR",
+    "voivodeship": "malopolskie",
+    "county": "Krakow",
+    "city": "Krakow"
+  },
+  {
+    "prefix": "KK",
+    "voivodeship": "malopolskie",
+    "county": "Krakow",
+    "city": "Krakow"
+  },
+  {
+    "prefix": "KN",
+    "voivodeship": "malopolskie",
+    "county": "Nowy Sacz",
+    "city": "Nowy Sacz"
+  },
+  {
+    "prefix": "KT",
+    "voivodeship": "malopolskie",
+    "county": "Tarnow",
+    "city": "Tarnow"
+  },
+  {
+    "prefix": "KBA",
+    "voivodeship": "malopolskie",
+    "county": "bochenski",
+    "city": "Bochnia"
+  },
+  {
+    "prefix": "KBC",
+    "voivodeship": "malopolskie",
+    "county": "bochenski",
+    "city": "Bochnia"
+  },
+  {
+    "prefix": "KBR",
+    "voivodeship": "malopolskie",
+    "county": "brzeski",
+    "city": "Brzesko"
+  },
+  {
+    "prefix": "KCH",
+    "voivodeship": "malopolskie",
+    "county": "chrzanowski",
+    "city": "Chrzanow"
+  },
+  {
+    "prefix": "KDA",
+    "voivodeship": "malopolskie",
+    "county": "dabrowski",
+    "city": "Dabrowa Tarnowska"
+  },
+  {
+    "prefix": "KGR",
+    "voivodeship": "malopolskie",
+    "county": "gorlicki",
+    "city": "Gorlice"
+  },
+  {
+    "prefix": "KRA",
+    "voivodeship": "malopolskie",
+    "county": "krakowski",
+    "city": "Krakow"
+  },
+  {
+    "prefix": "KLI",
+    "voivodeship": "malopolskie",
+    "county": "limanowski",
+    "city": "Limanowa"
+  },
+  {
+    "prefix": "KMI",
+    "voivodeship": "malopolskie",
+    "county": "miechowski",
+    "city": "Miechow"
+  },
+  {
+    "prefix": "KMY",
+    "voivodeship": "malopolskie",
+    "county": "myslenicki",
+    "city": "Myslenice"
+  },
+  {
+    "prefix": "KNS",
+    "voivodeship": "malopolskie",
+    "county": "nowosadecki",
+    "city": "Nowy Sacz"
+  },
+  {
+    "prefix": "KNT",
+    "voivodeship": "malopolskie",
+    "county": "nowotarski",
+    "city": "Nowy Targ"
+  },
+  {
+    "prefix": "KOL",
+    "voivodeship": "malopolskie",
+    "county": "olkuski",
+    "city": "Olkusz"
+  },
+  {
+    "prefix": "KOS",
+    "voivodeship": "malopolskie",
+    "county": "oswiecimski",
+    "city": "Oswiecim"
+  },
+  {
+    "prefix": "KPR",
+    "voivodeship": "malopolskie",
+    "county": "proszowicki",
+    "city": "Proszowice"
+  },
+  {
+    "prefix": "KSU",
+    "voivodeship": "malopolskie",
+    "county": "suski",
+    "city": "Sucha Beskidzka"
+  },
+  {
+    "prefix": "KTA",
+    "voivodeship": "malopolskie",
+    "county": "tarnowski",
+    "city": "Tarnow"
+  },
+  {
+    "prefix": "KTT",
+    "voivodeship": "malopolskie",
+    "county": "tatrzanski",
+    "city": "Zakopane"
+  },
+  {
+    "prefix": "KWA",
+    "voivodeship": "malopolskie",
+    "county": "wadowicki",
+    "city": "Wadowice"
+  },
+  {
+    "prefix": "KWI",
+    "voivodeship": "malopolskie",
+    "county": "wielicki",
+    "city": "Wieliczka"
+  },
+  {
+    "prefix": "WB",
+    "voivodeship": "mazowieckie",
+    "county": "Bemowo",
+    "city": "Warszawa"
+  },
+  {
+    "prefix": "WA",
+    "voivodeship": "mazowieckie",
+    "county": "Bialoleka",
+    "city": "Warszawa"
+  },
+  {
+    "prefix": "WD",
+    "voivodeship": "mazowieckie",
+    "county": "Bielany",
+    "city": "Warszawa"
+  },
+  {
+    "prefix": "WE",
+    "voivodeship": "mazowieckie",
+    "county": "Mokotow",
+    "city": "Warszawa"
+  },
+  {
+    "prefix": "WU",
+    "voivodeship": "mazowieckie",
+    "county": "Ochota",
+    "city": "Warszawa"
+  },
+  {
+    "prefix": "WF",
+    "voivodeship": "mazowieckie",
+    "county": "Praga-Poludnie",
+    "city": "Warszawa"
+  },
+  {
+    "prefix": "WH",
+    "voivodeship": "mazowieckie",
+    "county": "Praga-Polnoc",
+    "city": "Warszawa"
+  },
+  {
+    "prefix": "WW",
+    "voivodeship": "mazowieckie",
+    "county": "Rembertow",
+    "city": "Warszawa"
+  },
+  {
+    "prefix": "WW",
+    "voivodeship": "mazowieckie",
+    "county": "Wilanow",
+    "city": "Warszawa"
+  },
+  {
+    "prefix": "WW",
+    "voivodeship": "mazowieckie",
+    "county": "Wlochy",
+    "city": "Warszawa"
+  },
+  {
+    "prefix": "WI",
+    "voivodeship": "mazowieckie",
+    "county": "Srodmiescie",
+    "city": "Warszawa"
+  },
+  {
+    "prefix": "WJ",
+    "voivodeship": "mazowieckie",
+    "county": "Targowek",
+    "city": "Warszawa"
+  },
+  {
+    "prefix": "WK",
+    "voivodeship": "mazowieckie",
+    "county": "Ursus",
+    "city": "Warszawa"
+  },
+  {
+    "prefix": "WN",
+    "voivodeship": "mazowieckie",
+    "county": "Ursynow",
+    "city": "Warszawa"
+  },
+  {
+    "prefix": "WT",
+    "voivodeship": "mazowieckie",
+    "county": "Wawer",
+    "city": "Warszawa"
+  },
+  {
+    "prefix": "WX",
+    "voivodeship": "mazowieckie",
+    "county": "Wesola",
+    "city": "Warszawa"
+  },
+  {
+    "prefix": "WY",
+    "voivodeship": "mazowieckie",
+    "county": "Wola",
+    "city": "Warszawa"
+  },
+  {
+    "prefix": "WX",
+    "voivodeship": "mazowieckie",
+    "county": "Zoliborz",
+    "city": "Warszawa"
+  },
+  {
+    "prefix": "WO",
+    "voivodeship": "mazowieckie",
+    "county": "Ostroleka",
+    "city": "Ostroleka"
+  },
+  {
+    "prefix": "WP",
+    "voivodeship": "mazowieckie",
+    "county": "Plock",
+    "city": "Plock"
+  },
+  {
+    "prefix": "WR",
+    "voivodeship": "mazowieckie",
+    "county": "Radom",
+    "city": "Radom"
+  },
+  {
+    "prefix": "WS",
+    "voivodeship": "mazowieckie",
+    "county": "Siedlce",
+    "city": "Siedlce"
+  },
+  {
+    "prefix": "WBR",
+    "voivodeship": "mazowieckie",
+    "county": "bialobrzeski",
+    "city": "Bialobrzegi"
+  },
+  {
+    "prefix": "WCI",
+    "voivodeship": "mazowieckie",
+    "county": "ciechanowski",
+    "city": "Ciechanow"
+  },
+  {
+    "prefix": "WG",
+    "voivodeship": "mazowieckie",
+    "county": "garwolinski",
+    "city": "Garwolin"
+  },
+  {
+    "prefix": "WGS",
+    "voivodeship": "mazowieckie",
+    "county": "gostyninski",
+    "city": "Gostynin"
+  },
+  {
+    "prefix": "WGM",
+    "voivodeship": "mazowieckie",
+    "county": "grodziski",
+    "city": "Grodzisk Mazowiecki"
+  },
+  {
+    "prefix": "WGR",
+    "voivodeship": "mazowieckie",
+    "county": "grojecki",
+    "city": "Grojec"
+  },
+  {
+    "prefix": "WKZ",
+    "voivodeship": "mazowieckie",
+    "county": "kozienicki",
+    "city": "Kozienice"
+  },
+  {
+    "prefix": "WL",
+    "voivodeship": "mazowieckie",
+    "county": "legionowski",
+    "city": "Legionowo"
+  },
+  {
+    "prefix": "WLI",
+    "voivodeship": "mazowieckie",
+    "county": "lipski",
+    "city": "Lipsko"
+  },
+  {
+    "prefix": "WLS",
+    "voivodeship": "mazowieckie",
+    "county": "losicki",
+    "city": "Losice"
+  },
+  {
+    "prefix": "WMA",
+    "voivodeship": "mazowieckie",
+    "county": "makowski",
+    "city": "Makow Mazowiecki"
+  },
+  {
+    "prefix": "WM",
+    "voivodeship": "mazowieckie",
+    "county": "minski",
+    "city": "Minsk Mazowiecki"
+  },
+  {
+    "prefix": "WML",
+    "voivodeship": "mazowieckie",
+    "county": "mlawski",
+    "city": "Mlawa"
+  },
+  {
+    "prefix": "WND",
+    "voivodeship": "mazowieckie",
+    "county": "nowodworski",
+    "city": "Nowy Dwor Mazowiecki"
+  },
+  {
+    "prefix": "WOS",
+    "voivodeship": "mazowieckie",
+    "county": "ostrolecki",
+    "city": "Ostroleka"
+  },
+  {
+    "prefix": "WOR",
+    "voivodeship": "mazowieckie",
+    "county": "ostrowski",
+    "city": "Ostrow Mazowiecka"
+  },
+  {
+    "prefix": "WOT",
+    "voivodeship": "mazowieckie",
+    "county": "otwocki",
+    "city": "Otwock"
+  },
+  {
+    "prefix": "WPI",
+    "voivodeship": "mazowieckie",
+    "county": "piaseczynski",
+    "city": "Piaseczno"
+  },
+  {
+    "prefix": "WPL",
+    "voivodeship": "mazowieckie",
+    "county": "plocki",
+    "city": "Plock"
+  },
+  {
+    "prefix": "WPN",
+    "voivodeship": "mazowieckie",
+    "county": "plonski",
+    "city": "Plonsk"
+  },
+  {
+    "prefix": "WPP",
+    "voivodeship": "mazowieckie",
+    "county": "pruszkowski",
+    "city": "Pruszkow"
+  },
+  {
+    "prefix": "WPS",
+    "voivodeship": "mazowieckie",
+    "county": "pruszkowski",
+    "city": "Pruszkow"
+  },
+  {
+    "prefix": "WPR",
+    "voivodeship": "mazowieckie",
+    "county": "pruszkowski",
+    "city": "Pruszkow"
+  },
+  {
+    "prefix": "WPZ",
+    "voivodeship": "mazowieckie",
+    "county": "przasnyski",
+    "city": "Przasnysz"
+  },
+  {
+    "prefix": "WPY",
+    "voivodeship": "mazowieckie",
+    "county": "przysuski",
+    "city": "Przysucha"
+  },
+  {
+    "prefix": "WPU",
+    "voivodeship": "mazowieckie",
+    "county": "pultuski",
+    "city": "Pultusk"
+  },
+  {
+    "prefix": "WRA",
+    "voivodeship": "mazowieckie",
+    "county": "radomski",
+    "city": "Radom"
+  },
+  {
+    "prefix": "WSI",
+    "voivodeship": "mazowieckie",
+    "county": "siedlecki",
+    "city": "Siedlce"
+  },
+  {
+    "prefix": "WSE",
+    "voivodeship": "mazowieckie",
+    "county": "sierpecki",
+    "city": "Sierpc"
+  },
+  {
+    "prefix": "WSC",
+    "voivodeship": "mazowieckie",
+    "county": "sochaczewski",
+    "city": "Sochaczew"
+  },
+  {
+    "prefix": "WSK",
+    "voivodeship": "mazowieckie",
+    "county": "sokolowski",
+    "city": "Sokolow Podlaski"
+  },
+  {
+    "prefix": "WSZ",
+    "voivodeship": "mazowieckie",
+    "county": "szydlowiecki",
+    "city": "Szydlowiec"
+  },
+  {
+    "prefix": "WWE",
+    "voivodeship": "mazowieckie",
+    "county": "wegrowski",
+    "city": "Wegrow"
+  },
+  {
+    "prefix": "WV",
+    "voivodeship": "mazowieckie",
+    "county": "wolominski",
+    "city": "Wolomin"
+  },
+  {
+    "prefix": "WWL",
+    "voivodeship": "mazowieckie",
+    "county": "wolominski",
+    "city": "Wolomin"
+  },
+  {
+    "prefix": "WWY",
+    "voivodeship": "mazowieckie",
+    "county": "wyszkowski",
+    "city": "Wyszkow"
+  },
+  {
+    "prefix": "WZW",
+    "voivodeship": "mazowieckie",
+    "county": "zwolenski",
+    "city": "Zwolen"
+  },
+  {
+    "prefix": "WZU",
+    "voivodeship": "mazowieckie",
+    "county": "zurominski",
+    "city": "Zuromin"
+  },
+  {
+    "prefix": "WZY",
+    "voivodeship": "mazowieckie",
+    "county": "zyrardowski",
+    "city": "Zyrardow"
+  },
+  {
+    "prefix": "OP",
+    "voivodeship": "opolskie",
+    "county": "Opole",
+    "city": "Opole"
+  },
+  {
+    "prefix": "OB",
+    "voivodeship": "opolskie",
+    "county": "brzeski",
+    "city": "Brzeg"
+  },
+  {
+    "prefix": "OGL",
+    "voivodeship": "opolskie",
+    "county": "glubczycki",
+    "city": "Glubczyce"
+  },
+  {
+    "prefix": "OK",
+    "voivodeship": "opolskie",
+    "county": "kedzierzynsko-kozielski",
+    "city": "Kedzierzyn-Kozle"
+  },
+  {
+    "prefix": "OKL",
+    "voivodeship": "opolskie",
+    "county": "kluczborski",
+    "city": "Kluczbork"
+  },
+  {
+    "prefix": "OKR",
+    "voivodeship": "opolskie",
+    "county": "krapkowicki",
+    "city": "Krapkowice"
+  },
+  {
+    "prefix": "ONA",
+    "voivodeship": "opolskie",
+    "county": "namyslowski",
+    "city": "Namyslow"
+  },
+  {
+    "prefix": "ONY",
+    "voivodeship": "opolskie",
+    "county": "nyski",
+    "city": "Nysa"
+  },
+  {
+    "prefix": "OOL",
+    "voivodeship": "opolskie",
+    "county": "oleski",
+    "city": "Olesno"
+  },
+  {
+    "prefix": "OPO",
+    "voivodeship": "opolskie",
+    "county": "opolski",
+    "city": "Opole"
+  },
+  {
+    "prefix": "OPR",
+    "voivodeship": "opolskie",
+    "county": "prudnicki",
+    "city": "Prudnik"
+  },
+  {
+    "prefix": "OST",
+    "voivodeship": "opolskie",
+    "county": "strzelecki",
+    "city": "Strzelce Opolskie"
+  },
+  {
+    "prefix": "RK",
+    "voivodeship": "podkarpackie",
+    "county": "Krosno",
+    "city": "Krosno"
+  },
+  {
+    "prefix": "RP",
+    "voivodeship": "podkarpackie",
+    "county": "Przemysl",
+    "city": "Przemysl"
+  },
+  {
+    "prefix": "RZ",
+    "voivodeship": "podkarpackie",
+    "county": "Rzeszow",
+    "city": "Rzeszow"
+  },
+  {
+    "prefix": "RT",
+    "voivodeship": "podkarpackie",
+    "county": "Tarnobrzeg",
+    "city": "Tarnobrzeg"
+  },
+  {
+    "prefix": "RBI",
+    "voivodeship": "podkarpackie",
+    "county": "bieszczadzki",
+    "city": "Ustrzyki Dolne"
+  },
+  {
+    "prefix": "RBR",
+    "voivodeship": "podkarpackie",
+    "county": "brzozowski",
+    "city": "Brzozow"
+  },
+  {
+    "prefix": "RDE",
+    "voivodeship": "podkarpackie",
+    "county": "debicki",
+    "city": "Debica"
+  },
+  {
+    "prefix": "RJA",
+    "voivodeship": "podkarpackie",
+    "county": "jaroslawski",
+    "city": "Jaroslaw"
+  },
+  {
+    "prefix": "RJS",
+    "voivodeship": "podkarpackie",
+    "county": "jasielski",
+    "city": "Jaslo"
+  },
+  {
+    "prefix": "RKL",
+    "voivodeship": "podkarpackie",
+    "county": "kolbuszowski",
+    "city": "Kolbuszowa"
+  },
+  {
+    "prefix": "RKR",
+    "voivodeship": "podkarpackie",
+    "county": "krosnienski",
+    "city": "Krosno"
+  },
+  {
+    "prefix": "RLS",
+    "voivodeship": "podkarpackie",
+    "county": "leski",
+    "city": "Lesko"
+  },
+  {
+    "prefix": "RLE",
+    "voivodeship": "podkarpackie",
+    "county": "lezajski",
+    "city": "Lezajsk"
+  },
+  {
+    "prefix": "RLU",
+    "voivodeship": "podkarpackie",
+    "county": "lubaczowski",
+    "city": "Lubaczow"
+  },
+  {
+    "prefix": "RLA",
+    "voivodeship": "podkarpackie",
+    "county": "lancucki",
+    "city": "Lancut"
+  },
+  {
+    "prefix": "RMI",
+    "voivodeship": "podkarpackie",
+    "county": "mielecki",
+    "city": "Mielec"
+  },
+  {
+    "prefix": "RNI",
+    "voivodeship": "podkarpackie",
+    "county": "nizanski",
+    "city": "Nisko"
+  },
+  {
+    "prefix": "RPR",
+    "voivodeship": "podkarpackie",
+    "county": "przemyski",
+    "city": "Przemysl"
+  },
+  {
+    "prefix": "RPZ",
+    "voivodeship": "podkarpackie",
+    "county": "przeworski",
+    "city": "Przeworsk"
+  },
+  {
+    "prefix": "RRS",
+    "voivodeship": "podkarpackie",
+    "county": "ropczycko-sedziszowski",
+    "city": "Ropczyce"
+  },
+  {
+    "prefix": "RZE",
+    "voivodeship": "podkarpackie",
+    "county": "rzeszowski",
+    "city": "Rzeszow"
+  },
+  {
+    "prefix": "RSA",
+    "voivodeship": "podkarpackie",
+    "county": "sanocki",
+    "city": "Sanok"
+  },
+  {
+    "prefix": "RST",
+    "voivodeship": "podkarpackie",
+    "county": "stalowowolski",
+    "city": "Stalowa Wola"
+  },
+  {
+    "prefix": "RSR",
+    "voivodeship": "podkarpackie",
+    "county": "strzyzowski",
+    "city": "Strzyzow"
+  },
+  {
+    "prefix": "RTA",
+    "voivodeship": "podkarpackie",
+    "county": "tarnobrzeski",
+    "city": "Tarnobrzeg"
+  },
+  {
+    "prefix": "BI",
+    "voivodeship": "podlaskie",
+    "county": "Bialystok",
+    "city": "Bialystok"
+  },
+  {
+    "prefix": "BL",
+    "voivodeship": "podlaskie",
+    "county": "Lomza",
+    "city": "Lomza"
+  },
+  {
+    "prefix": "BS",
+    "voivodeship": "podlaskie",
+    "county": "Suwalki",
+    "city": "Suwalki"
+  },
+  {
+    "prefix": "BAU",
+    "voivodeship": "podlaskie",
+    "county": "augustowski",
+    "city": "Augustow"
+  },
+  {
+    "prefix": "BIA",
+    "voivodeship": "podlaskie",
+    "county": "bialostocki",
+    "city": "Bialystok"
+  },
+  {
+    "prefix": "BBI",
+    "voivodeship": "podlaskie",
+    "county": "bielski",
+    "city": "Bielsk Podlaski"
+  },
+  {
+    "prefix": "BGR",
+    "voivodeship": "podlaskie",
+    "county": "grajewski",
+    "city": "Grajewo"
+  },
+  {
+    "prefix": "BHA",
+    "voivodeship": "podlaskie",
+    "county": "hajnowski",
+    "city": "Hajnowka"
+  },
+  {
+    "prefix": "BKL",
+    "voivodeship": "podlaskie",
+    "county": "kolnenski",
+    "city": "Kolno"
+  },
+  {
+    "prefix": "BLM",
+    "voivodeship": "podlaskie",
+    "county": "lomzynski",
+    "city": "Lomza"
+  },
+  {
+    "prefix": "BMN",
+    "voivodeship": "podlaskie",
+    "county": "moniecki",
+    "city": "Monki"
+  },
+  {
+    "prefix": "BSE",
+    "voivodeship": "podlaskie",
+    "county": "sejnenski",
+    "city": "Sejny"
+  },
+  {
+    "prefix": "BSI",
+    "voivodeship": "podlaskie",
+    "county": "siemiatycki",
+    "city": "Siemiatycze"
+  },
+  {
+    "prefix": "BSK",
+    "voivodeship": "podlaskie",
+    "county": "sokolski",
+    "city": "Sokolka"
+  },
+  {
+    "prefix": "BSU",
+    "voivodeship": "podlaskie",
+    "county": "suwalski",
+    "city": "Suwalki"
+  },
+  {
+    "prefix": "BWM",
+    "voivodeship": "podlaskie",
+    "county": "wysokomazowiecki",
+    "city": "Wysokie Mazowieckie"
+  },
+  {
+    "prefix": "BZA",
+    "voivodeship": "podlaskie",
+    "county": "zambrowski",
+    "city": "Zambrow"
+  },
+  {
+    "prefix": "GD",
+    "voivodeship": "pomorskie",
+    "county": "Gdansk",
+    "city": "Gdansk"
+  },
+  {
+    "prefix": "GA",
+    "voivodeship": "pomorskie",
+    "county": "Gdynia",
+    "city": "Gdynia"
+  },
+  {
+    "prefix": "GS",
+    "voivodeship": "pomorskie",
+    "county": "Slupsk",
+    "city": "Slupsk"
+  },
+  {
+    "prefix": "GSP",
+    "voivodeship": "pomorskie",
+    "county": "Sopot",
+    "city": "Sopot"
+  },
+  {
+    "prefix": "GBY",
+    "voivodeship": "pomorskie",
+    "county": "bytowski",
+    "city": "Bytow"
+  },
+  {
+    "prefix": "GCH",
+    "voivodeship": "pomorskie",
+    "county": "chojnicki",
+    "city": "Chojnice"
+  },
+  {
+    "prefix": "GCZ",
+    "voivodeship": "pomorskie",
+    "county": "czluchowski",
+    "city": "Czluchow"
+  },
+  {
+    "prefix": "GDA",
+    "voivodeship": "pomorskie",
+    "county": "gdanski",
+    "city": "Pruszcz Gdanski"
+  },
+  {
+    "prefix": "GKA",
+    "voivodeship": "pomorskie",
+    "county": "kartuski",
+    "city": "Kartuzy"
+  },
+  {
+    "prefix": "GKS",
+    "voivodeship": "pomorskie",
+    "county": "koscierski",
+    "city": "Koscierzyna"
+  },
+  {
+    "prefix": "GKW",
+    "voivodeship": "pomorskie",
+    "county": "kwidzynski",
+    "city": "Kwidzyn"
+  },
+  {
+    "prefix": "GLE",
+    "voivodeship": "pomorskie",
+    "county": "leborski",
+    "city": "Lebork"
+  },
+  {
+    "prefix": "GMB",
+    "voivodeship": "pomorskie",
+    "county": "malborski",
+    "city": "Malbork"
+  },
+  {
+    "prefix": "GND",
+    "voivodeship": "pomorskie",
+    "county": "nowodworski",
+    "city": "Nowy Dwor Gdanski"
+  },
+  {
+    "prefix": "GPU",
+    "voivodeship": "pomorskie",
+    "county": "pucki",
+    "city": "Puck"
+  },
+  {
+    "prefix": "GSL",
+    "voivodeship": "pomorskie",
+    "county": "slupski",
+    "city": "Slupsk"
+  },
+  {
+    "prefix": "GST",
+    "voivodeship": "pomorskie",
+    "county": "starogardzki",
+    "city": "Starogard Gdanski"
+  },
+  {
+    "prefix": "GSZ",
+    "voivodeship": "pomorskie",
+    "county": "sztumski",
+    "city": "Sztum"
+  },
+  {
+    "prefix": "GTC",
+    "voivodeship": "pomorskie",
+    "county": "tczewski",
+    "city": "Tczew"
+  },
+  {
+    "prefix": "GWE",
+    "voivodeship": "pomorskie",
+    "county": "wejherowski",
+    "city": "Wejherowo"
+  },
+  {
+    "prefix": "GWO",
+    "voivodeship": "pomorskie",
+    "county": "wejherowski",
+    "city": "Wejherowo"
+  },
+  {
+    "prefix": "SB",
+    "voivodeship": "slaskie",
+    "county": "Bielsko-Biala",
+    "city": "Bielsko-Biala"
+  },
+  {
+    "prefix": "SY",
+    "voivodeship": "slaskie",
+    "county": "Bytom",
+    "city": "Bytom"
+  },
+  {
+    "prefix": "SH",
+    "voivodeship": "slaskie",
+    "county": "Chorzow",
+    "city": "Chorzow"
+  },
+  {
+    "prefix": "SC",
+    "voivodeship": "slaskie",
+    "county": "Czestochowa",
+    "city": "Czestochowa"
+  },
+  {
+    "prefix": "SD",
+    "voivodeship": "slaskie",
+    "county": "Dabrowa Gornicza",
+    "city": "Dabrowa Gornicza"
+  },
+  {
+    "prefix": "SG",
+    "voivodeship": "slaskie",
+    "county": "Gliwice",
+    "city": "Gliwice"
+  },
+  {
+    "prefix": "SJZ",
+    "voivodeship": "slaskie",
+    "county": "Jastrzebie-Zdroj",
+    "city": "Jastrzebie-Zdroj"
+  },
+  {
+    "prefix": "SJ",
+    "voivodeship": "slaskie",
+    "county": "Jaworzno",
+    "city": "Jaworzno"
+  },
+  {
+    "prefix": "SK",
+    "voivodeship": "slaskie",
+    "county": "Katowice",
+    "city": "Katowice"
+  },
+  {
+    "prefix": "SM",
+    "voivodeship": "slaskie",
+    "county": "Myslowice",
+    "city": "Myslowice"
+  },
+  {
+    "prefix": "SPI",
+    "voivodeship": "slaskie",
+    "county": "Piekary Slaskie",
+    "city": "Piekary Slaskie"
+  },
+  {
+    "prefix": "SL",
+    "voivodeship": "slaskie",
+    "county": "Ruda Slaska",
+    "city": "Ruda Slaska"
+  },
+  {
+    "prefix": "SR",
+    "voivodeship": "slaskie",
+    "county": "Rybnik",
+    "city": "Rybnik"
+  },
+  {
+    "prefix": "SI",
+    "voivodeship": "slaskie",
+    "county": "Siemianowice Slaskie",
+    "city": "Siemianowice Slaskie"
+  },
+  {
+    "prefix": "SO",
+    "voivodeship": "slaskie",
+    "county": "Sosnowiec",
+    "city": "Sosnowiec"
+  },
+  {
+    "prefix": "SW",
+    "voivodeship": "slaskie",
+    "county": "Swietochlowice",
+    "city": "Swietochlowice"
+  },
+  {
+    "prefix": "ST",
+    "voivodeship": "slaskie",
+    "county": "Tychy",
+    "city": "Tychy"
+  },
+  {
+    "prefix": "SZ",
+    "voivodeship": "slaskie",
+    "county": "Zabrze",
+    "city": "Zabrze"
+  },
+  {
+    "prefix": "SZO",
+    "voivodeship": "slaskie",
+    "county": "Zory",
+    "city": "Zory"
+  },
+  {
+    "prefix": "SBE",
+    "voivodeship": "slaskie",
+    "county": "bedzinski",
+    "city": "Bedzin"
+  },
+  {
+    "prefix": "SBI",
+    "voivodeship": "slaskie",
+    "county": "bielski",
+    "city": "Bielsko-Biala"
+  },
+  {
+    "prefix": "SBL",
+    "voivodeship": "slaskie",
+    "county": "bierunsko-ledzinski",
+    "city": "Bierun"
+  },
+  {
+    "prefix": "SCI",
+    "voivodeship": "slaskie",
+    "county": "cieszynski",
+    "city": "Cieszyn"
+  },
+  {
+    "prefix": "SCZ",
+    "voivodeship": "slaskie",
+    "county": "czestochowski",
+    "city": "Czestochowa"
+  },
+  {
+    "prefix": "SGL",
+    "voivodeship": "slaskie",
+    "county": "gliwicki",
+    "city": "Gliwice"
+  },
+  {
+    "prefix": "SKL",
+    "voivodeship": "slaskie",
+    "county": "klobucki",
+    "city": "Klobuck"
+  },
+  {
+    "prefix": "SLU",
+    "voivodeship": "slaskie",
+    "county": "lubliniecki",
+    "city": "Lubliniec"
+  },
+  {
+    "prefix": "SMI",
+    "voivodeship": "slaskie",
+    "county": "mikolowski",
+    "city": "Mikolow"
+  },
+  {
+    "prefix": "SMY",
+    "voivodeship": "slaskie",
+    "county": "myszkowski",
+    "city": "Myszkow"
+  },
+  {
+    "prefix": "SPS",
+    "voivodeship": "slaskie",
+    "county": "pszczynski",
+    "city": "Pszczyna"
+  },
+  {
+    "prefix": "SRC",
+    "voivodeship": "slaskie",
+    "county": "raciborski",
+    "city": "Raciborz"
+  },
+  {
+    "prefix": "SRB",
+    "voivodeship": "slaskie",
+    "county": "rybnicki",
+    "city": "Rybnik"
+  },
+  {
+    "prefix": "STA",
+    "voivodeship": "slaskie",
+    "county": "tarnogorski",
+    "city": "Tarnowskie Gory"
+  },
+  {
+    "prefix": "SWZ",
+    "voivodeship": "slaskie",
+    "county": "wodzislawski",
+    "city": "Wodzislaw Slaski"
+  },
+  {
+    "prefix": "SWD",
+    "voivodeship": "slaskie",
+    "county": "wodzislawski",
+    "city": "Wodzislaw Slaski"
+  },
+  {
+    "prefix": "SZA",
+    "voivodeship": "slaskie",
+    "county": "zawiercianski",
+    "city": "Zawiercie"
+  },
+  {
+    "prefix": "SZY",
+    "voivodeship": "slaskie",
+    "county": "zywiecki",
+    "city": "Zywiec"
+  },
+  {
+    "prefix": "TK",
+    "voivodeship": "swietokrzyskie",
+    "county": "Kielce",
+    "city": "Kielce"
+  },
+  {
+    "prefix": "TBU",
+    "voivodeship": "swietokrzyskie",
+    "county": "buski",
+    "city": "Busko Zdroj"
+  },
+  {
+    "prefix": "TJE",
+    "voivodeship": "swietokrzyskie",
+    "county": "jedrzejowski",
+    "city": "Jedrzejow"
+  },
+  {
+    "prefix": "TKA",
+    "voivodeship": "swietokrzyskie",
+    "county": "kazimierski",
+    "city": "Kazimierza Wielka"
+  },
+  {
+    "prefix": "TKI",
+    "voivodeship": "swietokrzyskie",
+    "county": "kielecki",
+    "city": "Kielce"
+  },
+  {
+    "prefix": "TKN",
+    "voivodeship": "swietokrzyskie",
+    "county": "konecki",
+    "city": "Konskie"
+  },
+  {
+    "prefix": "TOP",
+    "voivodeship": "swietokrzyskie",
+    "county": "opatowski",
+    "city": "Opatow"
+  },
+  {
+    "prefix": "TOS",
+    "voivodeship": "swietokrzyskie",
+    "county": "ostrowiecki",
+    "city": "Ostrowiec Swietokrzyski"
+  },
+  {
+    "prefix": "TPI",
+    "voivodeship": "swietokrzyskie",
+    "county": "pinczowski",
+    "city": "Pinczow"
+  },
+  {
+    "prefix": "TSA",
+    "voivodeship": "swietokrzyskie",
+    "county": "sandomierski",
+    "city": "Sandomierz"
+  },
+  {
+    "prefix": "TSK",
+    "voivodeship": "swietokrzyskie",
+    "county": "skarzyski",
+    "city": "Skarzysko-Kamienna"
+  },
+  {
+    "prefix": "TST",
+    "voivodeship": "swietokrzyskie",
+    "county": "starachowicki",
+    "city": "Starachowice"
+  },
+  {
+    "prefix": "TSZ",
+    "voivodeship": "swietokrzyskie",
+    "county": "staszowski",
+    "city": "Staszow"
+  },
+  {
+    "prefix": "TLW",
+    "voivodeship": "swietokrzyskie",
+    "county": "wloszczowski",
+    "city": "Wloszczowa"
+  },
+  {
+    "prefix": "NE",
+    "voivodeship": "warminsko-mazurskie",
+    "county": "Elblag",
+    "city": "Elblag"
+  },
+  {
+    "prefix": "NO",
+    "voivodeship": "warminsko-mazurskie",
+    "county": "Olsztyn",
+    "city": "Olsztyn"
+  },
+  {
+    "prefix": "NBA",
+    "voivodeship": "warminsko-mazurskie",
+    "county": "bartoszycki",
+    "city": "Bartoszyce"
+  },
+  {
+    "prefix": "NBR",
+    "voivodeship": "warminsko-mazurskie",
+    "county": "braniewski",
+    "city": "Braniewo"
+  },
+  {
+    "prefix": "NDZ",
+    "voivodeship": "warminsko-mazurskie",
+    "county": "dzialdowski",
+    "city": "Dzialdowo"
+  },
+  {
+    "prefix": "NEB",
+    "voivodeship": "warminsko-mazurskie",
+    "county": "elblaski",
+    "city": "Elblag"
+  },
+  {
+    "prefix": "NEL",
+    "voivodeship": "warminsko-mazurskie",
+    "county": "elcki",
+    "city": "Elk"
+  },
+  {
+    "prefix": "NGI",
+    "voivodeship": "warminsko-mazurskie",
+    "county": "gizycki",
+    "city": "Gizycko"
+  },
+  {
+    "prefix": "NGO",
+    "voivodeship": "warminsko-mazurskie",
+    "county": "goldapski",
+    "city": "Goldap"
+  },
+  {
+    "prefix": "NIL",
+    "voivodeship": "warminsko-mazurskie",
+    "county": "ilawski",
+    "city": "Ilawa"
+  },
+  {
+    "prefix": "NKE",
+    "voivodeship": "warminsko-mazurskie",
+    "county": "ketrzynski",
+    "city": "Ketrzyn"
+  },
+  {
+    "prefix": "NLI",
+    "voivodeship": "warminsko-mazurskie",
+    "county": "lidzbarski",
+    "city": "Lidzbark Warminski"
+  },
+  {
+    "prefix": "NMR",
+    "voivodeship": "warminsko-mazurskie",
+    "county": "mragowski",
+    "city": "Mragowo"
+  },
+  {
+    "prefix": "NNI",
+    "voivodeship": "warminsko-mazurskie",
+    "county": "nidzicki",
+    "city": "Nidzica"
+  },
+  {
+    "prefix": "NNM",
+    "voivodeship": "warminsko-mazurskie",
+    "county": "nowomiejski",
+    "city": "Nowe Miasto Lubawskie"
+  },
+  {
+    "prefix": "NOE",
+    "voivodeship": "warminsko-mazurskie",
+    "county": "olecki",
+    "city": "Olecko"
+  },
+  {
+    "prefix": "NOL",
+    "voivodeship": "warminsko-mazurskie",
+    "county": "olsztynski",
+    "city": "Olsztyn"
+  },
+  {
+    "prefix": "NOS",
+    "voivodeship": "warminsko-mazurskie",
+    "county": "ostrodzki",
+    "city": "Ostroda"
+  },
+  {
+    "prefix": "NPI",
+    "voivodeship": "warminsko-mazurskie",
+    "county": "piski",
+    "city": "Pisz"
+  },
+  {
+    "prefix": "NSZ",
+    "voivodeship": "warminsko-mazurskie",
+    "county": "szczycienski",
+    "city": "Szczytno"
+  },
+  {
+    "prefix": "NWE",
+    "voivodeship": "warminsko-mazurskie",
+    "county": "wegorzewski",
+    "city": "Wegorzewo"
+  },
+  {
+    "prefix": "PK",
+    "voivodeship": "wielkopolskie",
+    "county": "Kalisz",
+    "city": "Kalisz"
+  },
+  {
+    "prefix": "PA",
+    "voivodeship": "wielkopolskie",
+    "county": "Kalisz",
+    "city": "Kalisz"
+  },
+  {
+    "prefix": "PN",
+    "voivodeship": "wielkopolskie",
+    "county": "Konin",
+    "city": "Konin"
+  },
+  {
+    "prefix": "PL",
+    "voivodeship": "wielkopolskie",
+    "county": "Leszno",
+    "city": "Leszno"
+  },
+  {
+    "prefix": "PY",
+    "voivodeship": "wielkopolskie",
+    "county": "Poznan",
+    "city": "Poznan"
+  },
+  {
+    "prefix": "PO",
+    "voivodeship": "wielkopolskie",
+    "county": "Poznan",
+    "city": "Poznan"
+  },
+  {
+    "prefix": "PCH",
+    "voivodeship": "wielkopolskie",
+    "county": "chodzieski",
+    "city": "Chodziez"
+  },
+  {
+    "prefix": "PCT",
+    "voivodeship": "wielkopolskie",
+    "county": "czarnkowsko-trzcianecki",
+    "city": "Czarnkow"
+  },
+  {
+    "prefix": "PGN",
+    "voivodeship": "wielkopolskie",
+    "county": "gnieznienski",
+    "city": "Gniezno"
+  },
+  {
+    "prefix": "PGS",
+    "voivodeship": "wielkopolskie",
+    "county": "gostynski",
+    "city": "Gostyn"
+  },
+  {
+    "prefix": "PGO",
+    "voivodeship": "wielkopolskie",
+    "county": "grodziski",
+    "city": "Grodzisk Wielkopolski"
+  },
+  {
+    "prefix": "PJA",
+    "voivodeship": "wielkopolskie",
+    "county": "jarocinski",
+    "city": "Jarocin"
+  },
+  {
+    "prefix": "PKA",
+    "voivodeship": "wielkopolskie",
+    "county": "kaliski",
+    "city": "Kalisz"
+  },
+  {
+    "prefix": "PKE",
+    "voivodeship": "wielkopolskie",
+    "county": "kepinski",
+    "city": "Kepno"
+  },
+  {
+    "prefix": "PKL",
+    "voivodeship": "wielkopolskie",
+    "county": "kolski",
+    "city": "Kolo"
+  },
+  {
+    "prefix": "PKN",
+    "voivodeship": "wielkopolskie",
+    "county": "koninski",
+    "city": "Konin"
+  },
+  {
+    "prefix": "PKS",
+    "voivodeship": "wielkopolskie",
+    "county": "koscianski",
+    "city": "Koscian"
+  },
+  {
+    "prefix": "PKR",
+    "voivodeship": "wielkopolskie",
+    "county": "krotoszynski",
+    "city": "Krotoszyn"
+  },
+  {
+    "prefix": "PLE",
+    "voivodeship": "wielkopolskie",
+    "county": "leszczynski",
+    "city": "Leszno"
+  },
+  {
+    "prefix": "PMI",
+    "voivodeship": "wielkopolskie",
+    "county": "miedzychodzki",
+    "city": "Miedzychod"
+  },
+  {
+    "prefix": "PNT",
+    "voivodeship": "wielkopolskie",
+    "county": "nowotomyski",
+    "city": "Nowy Tomysl"
+  },
+  {
+    "prefix": "POB",
+    "voivodeship": "wielkopolskie",
+    "county": "obornicki",
+    "city": "Oborniki"
+  },
+  {
+    "prefix": "POS",
+    "voivodeship": "wielkopolskie",
+    "county": "ostrowski",
+    "city": "Ostrow Wielkopolski"
+  },
+  {
+    "prefix": "POT",
+    "voivodeship": "wielkopolskie",
+    "county": "ostrzeszowski",
+    "city": "Ostrzeszow"
+  },
+  {
+    "prefix": "PP",
+    "voivodeship": "wielkopolskie",
+    "county": "pilski",
+    "city": "Pila"
+  },
+  {
+    "prefix": "PPL",
+    "voivodeship": "wielkopolskie",
+    "county": "pleszewski",
+    "city": "Pleszew"
+  },
+  {
+    "prefix": "PZ",
+    "voivodeship": "wielkopolskie",
+    "county": "poznanski",
+    "city": "Poznan"
+  },
+  {
+    "prefix": "PRA",
+    "voivodeship": "wielkopolskie",
+    "county": "rawicki",
+    "city": "Rawicz"
+  },
+  {
+    "prefix": "PSL",
+    "voivodeship": "wielkopolskie",
+    "county": "slupecki",
+    "city": "Slupca"
+  },
+  {
+    "prefix": "PSZ",
+    "voivodeship": "wielkopolskie",
+    "county": "szamotulski",
+    "city": "Szamotuly"
+  },
+  {
+    "prefix": "PSE",
+    "voivodeship": "wielkopolskie",
+    "county": "sremski",
+    "city": "Srem"
+  },
+  {
+    "prefix": "PSR",
+    "voivodeship": "wielkopolskie",
+    "county": "sredzki",
+    "city": "Sroda Wielkopolska"
+  },
+  {
+    "prefix": "PTU",
+    "voivodeship": "wielkopolskie",
+    "county": "turecki",
+    "city": "Turek"
+  },
+  {
+    "prefix": "PWA",
+    "voivodeship": "wielkopolskie",
+    "county": "wagrowiecki",
+    "city": "Wagrowiec"
+  },
+  {
+    "prefix": "PWL",
+    "voivodeship": "wielkopolskie",
+    "county": "wolsztynski",
+    "city": "Wolsztyn"
+  },
+  {
+    "prefix": "PWR",
+    "voivodeship": "wielkopolskie",
+    "county": "wrzesinski",
+    "city": "Wrzesnia"
+  },
+  {
+    "prefix": "PZL",
+    "voivodeship": "wielkopolskie",
+    "county": "zlotowski",
+    "city": "Zlotow"
+  },
+  {
+    "prefix": "ZK",
+    "voivodeship": "zachodnio pomorskie",
+    "county": "Koszalin",
+    "city": "Koszalin"
+  },
+  {
+    "prefix": "ZZ",
+    "voivodeship": "zachodnio pomorskie",
+    "county": "Szczecin",
+    "city": "Szczecin"
+  },
+  {
+    "prefix": "ZS",
+    "voivodeship": "zachodnio pomorskie",
+    "county": "Szczecin",
+    "city": "Szczecin"
+  },
+  {
+    "prefix": "ZSW",
+    "voivodeship": "zachodnio pomorskie",
+    "county": "Swinoujscie",
+    "city": "Swinoujscie"
+  },
+  {
+    "prefix": "ZBI",
+    "voivodeship": "zachodnio pomorskie",
+    "county": "bialogardzki",
+    "city": "Bialogard"
+  },
+  {
+    "prefix": "ZCH",
+    "voivodeship": "zachodnio pomorskie",
+    "county": "choszczenski",
+    "city": "Choszczno"
+  },
+  {
+    "prefix": "ZDR",
+    "voivodeship": "zachodnio pomorskie",
+    "county": "drawski",
+    "city": "Drawsko Pomorskie"
+  },
+  {
+    "prefix": "ZGL",
+    "voivodeship": "zachodnio pomorskie",
+    "county": "goleniowski",
+    "city": "Goleniow"
+  },
+  {
+    "prefix": "ZGY",
+    "voivodeship": "zachodnio pomorskie",
+    "county": "gryficki",
+    "city": "Gryfice"
+  },
+  {
+    "prefix": "ZGR",
+    "voivodeship": "zachodnio pomorskie",
+    "county": "gryfinski",
+    "city": "Gryfino"
+  },
+  {
+    "prefix": "ZKA",
+    "voivodeship": "zachodnio pomorskie",
+    "county": "kamienski",
+    "city": "Kamien Pomorski"
+  },
+  {
+    "prefix": "ZKL",
+    "voivodeship": "zachodnio pomorskie",
+    "county": "kolobrzeski",
+    "city": "Kolobrzeg"
+  },
+  {
+    "prefix": "ZKO",
+    "voivodeship": "zachodnio pomorskie",
+    "county": "koszalinski",
+    "city": "Koszalin"
+  },
+  {
+    "prefix": "ZLO",
+    "voivodeship": "zachodnio pomorskie",
+    "county": "lobeski",
+    "city": "Lobez"
+  },
+  {
+    "prefix": "ZMY",
+    "voivodeship": "zachodnio pomorskie",
+    "county": "mysliborski",
+    "city": "Mysliborz"
+  },
+  {
+    "prefix": "ZPL",
+    "voivodeship": "zachodnio pomorskie",
+    "county": "policki",
+    "city": "Police"
+  },
+  {
+    "prefix": "ZPY",
+    "voivodeship": "zachodnio pomorskie",
+    "county": "pyrzycki",
+    "city": "Pyrzyce"
+  },
+  {
+    "prefix": "ZSL",
+    "voivodeship": "zachodnio pomorskie",
+    "county": "slawienski",
+    "city": "Slawno"
+  },
+  {
+    "prefix": "ZST",
+    "voivodeship": "zachodnio pomorskie",
+    "county": "stargardzki",
+    "city": "Stargard"
+  },
+  {
+    "prefix": "ZSZ",
+    "voivodeship": "zachodnio pomorskie",
+    "county": "szczecinecki",
+    "city": "Szczecinek"
+  },
+  {
+    "prefix": "ZSD",
+    "voivodeship": "zachodnio pomorskie",
+    "county": "swidwinski",
+    "city": "Swidwin"
+  },
+  {
+    "prefix": "ZWA",
+    "voivodeship": "zachodnio pomorskie",
+    "county": "walecki",
+    "city": "Walcz"
+  }
+ ]
